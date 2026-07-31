@@ -8,9 +8,9 @@ I am a doctoral student at the School of Outstanding Engineers, Beijing Universi
 
 ## Education Experience
 
-2017 - 2021: Northeastern University
-2021 - 2024: Xidian University
-2026 - Present: Beijing University of Posts and Telecommunications
+- 2017 - 2021: Northeastern University
+- 2021 - 2024: Xidian University
+- 2026 - Present: Beijing University of Posts and Telecommunications
 
 ## Research Interests
 
