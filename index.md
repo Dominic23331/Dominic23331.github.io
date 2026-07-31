@@ -4,20 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a doctoral student at the School of Outstanding Engineers, Beijing University of Posts and Telecommunications, majoring in Low-Altitude Technology. I completed my undergraduate studies at Northeastern University and my postgraduate studies at Xidian University. My main research interests include computer vision, medical image processing, and high-precision map generation.
+
+## Education Experience
+
+2017 - 2021: Northeastern University
+2021 - 2024: Xidian University
+2026 - Present: Beijing University of Posts and Telecommunications
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** object detection, human pose estimation, high-precision map generation
+- **Medical Image Processing:** gait analysis, AI diagnosis of developmental dysplasia of the hip (DDH), intracranial aneurysm recognition
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2026]** Admitted as a Ph.D. student at Beijing University of Posts and Telecommunications.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
